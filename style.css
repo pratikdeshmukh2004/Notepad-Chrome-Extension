@@ -1,0 +1,35 @@
+body{
+    width: 500px;
+    height: fit-content;
+    background-color: black;
+    color: white;
+}
+
+.header h2{
+    background: -webkit-linear-gradient(#e66465, #9198e5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.header {
+    border-bottom: 2px solid gray;
+}
+.content{
+    margin-top: 10px;
+}
+
+.content textarea {
+    background: url(http://i.stack.imgur.com/ynxjD.png) repeat-y;
+    width: 480px;
+    height: auto;
+    font: normal 14px verdana;
+    line-height: 25px;
+    padding: 2px 10px;
+    border: solid 1px #ddd;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+   }
