@@ -1,5 +1,7 @@
 # Notepad-Chrome-Extension
 
+![imagenotfound](https://raw.githubusercontent.com/pratikdeshmukh2004/images/master/Screenshot%20from%202021-11-15%2014-17-17.png)
+
 ## Download the extension
 
 - Download file from [here](https://github.com/pratikdeshmukh2004/Notepad-Chrome-Extension/archive/refs/heads/master.zip)
